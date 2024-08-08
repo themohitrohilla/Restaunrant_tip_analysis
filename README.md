@@ -1,6 +1,7 @@
 # Restaunrant_tip_analysis
 
 **#A project to predict the restaurant tips using presictive analysis on excel which includes:**
+
 Restaurant tips file for the analytics using Excel, Find out if there are any missing values and clean the data
 
 Find the features that are independent and dependent

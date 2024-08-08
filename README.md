@@ -15,4 +15,4 @@ Calculate the predicted and actual tips values
 
 Calculate the RMSE(Root Mean Square Error) of the model
 
-RMSE is root of mean of square errors
+RMSE is root of mean of square error
